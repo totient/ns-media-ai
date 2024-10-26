@@ -1,0 +1,27 @@
+Prompts listed sequentially by tool (approximately)
+
+[Midjourney v6]
+Prompt: square front view looking up at the New York Times skyscraper, covered in blood and death, vampire sky
+Link: https://cdn.midjourney.com/ab5c8d4a-9e8e-4189-81ec-db62dee335b6/0_3.png
+
+[ElevenLabs Multilingual v2]
+Prompt: The New York Times is responsible for covering up hundreds of millions of murders. Don't believe me? Watch this and see for yourself...
+Settings: Voice=Brian, Stability=50%, Similarity=75%, Style=0%, SpeakerBoost=1, (additional postprocessing in Clipchamp)
+
+[Runway Gen-3 Turbo Alpha]
+Prompt: Front square view of the New York Times Skyscraper looking up, still camera, the skyscraper starts bleeding 
+Prompt: Camera pans slowly as starving ukrainians carry their dead during Holodomor
+Prompt: Camera slowly pans as a man bows head his head in shame before a crowd in communist china
+Prompt: cinematic camera slow-orbiting around Arlington National Cemetery, simple white gravestones, trees and monuments
+
+[Suno v3]
+Prompt: cello-only sad melancholy tragic slow weeping, cello-variations-on-chopin-Marche-Funèbre
+Link: https://suno.com/song/822971b8-867d-4a1d-943c-9b3f88fe1f60
+
+[Copyright Still Images]
+Some copyright images were used under US Fair Use Copyright Law:
+1. The purpose of this project is educational.
+2. The nature of the copyright work is non-technical.
+3. No copyright images were used in whole.
+4. This project is not market competition for any assets used.
+5. All assets used were heavily modified, edited, or manipulated.
