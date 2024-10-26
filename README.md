@@ -17,9 +17,9 @@ AI-Generated video about the New York Times (59 secionds, 9:16 format)
 - This work is licensed under a [Creative Commons Zero v1.0 Universal] License
 
 ## Prize Submission Checklist
-- [ ] 9:16 aspect ratio
-- [ ] Under 59 seconds
-- [ ] MP4 Format
-- [ ] All prompts documented
-- [ ] Creative Commons licensed
-- [ ] Public repository
+- [X] 9:16 aspect ratio
+- [X] Under 59 seconds
+- [X] MP4 Format
+- [X] All prompts documented
+- [X] Creative Commons licensed
+- [X] Public repository
